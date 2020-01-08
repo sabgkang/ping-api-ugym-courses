@@ -1,0 +1,22 @@
+{
+  "name": "ping-api-ugym-courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabgkang/ping-api-ugym-courses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabgkang/ping-api-ugym-courses/issues"
+  },
+  "homepage": "https://github.com/sabgkang/ping-api-ugym-courses#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
